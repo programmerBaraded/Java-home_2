@@ -31,3 +31,15 @@
 2023-04-12 06:16:21 error: SQLITE_ERROR: no such table: issues
 2023-04-12 06:16:40 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/log.txt.lck
 2023-04-12 06:16:40 error: SQLITE_ERROR: no such table: issues
+2023-04-12 06:20:58 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/index.lock
+2023-04-12 06:20:58 error: SQLITE_ERROR: no such table: issues
+2023-04-12 06:22:15 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/index.lock
+2023-04-12 06:22:15 error: SQLITE_ERROR: no such table: issues
+2023-04-12 06:24:48 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/refs/remotes/origin/main.lock
+2023-04-12 06:24:48 error: SQLITE_ERROR: no such table: issues
+2023-04-12 06:50:01 info: tempDirectory:c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-12 06:50:01 info: Extraction complete for source: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-12 06:50:01 info: Congratulations, your extension "Embold" is now active!
+2023-04-12 06:51:21 info: tempDirectory:c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-12 06:51:21 info: Extraction complete for source: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-12 06:51:21 info: Congratulations, your extension "Embold" is now active!
