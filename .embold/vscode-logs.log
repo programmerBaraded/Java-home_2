@@ -1,0 +1,33 @@
+2023-04-11 19:07:12 info: tempDirectory:c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-11 19:07:12 info: Extraction complete for source: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-11 19:07:12 info: Congratulations, your extension "Embold" is now active!
+2023-04-11 19:09:01 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/tnsfKNZ
+2023-04-11 19:09:01 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:09:19 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/index.lock
+2023-04-11 19:09:19 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:11:01 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/index.lock
+2023-04-11 19:11:01 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:12:49 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/logs/refs/heads/master
+2023-04-11 19:12:50 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:12:50 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/HEAD.lock
+2023-04-11 19:12:50 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/config.lock
+2023-04-11 19:12:50 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/packed-refs.lock
+2023-04-11 19:12:50 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/refs/heads/master
+2023-04-11 19:12:50 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/refs/heads/master.lock
+2023-04-11 19:12:50 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/logs/refs/.tmp-renamed-log
+2023-04-11 19:12:50 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:12:50 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:12:50 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:12:50 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:12:50 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:12:50 error: SQLITE_ERROR: no such table: issues
+2023-04-11 19:13:02 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/.git/config.lock
+2023-04-11 19:13:02 error: SQLITE_ERROR: no such table: issues
+2023-04-12 05:44:57 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/Ex_5.java
+2023-04-12 05:44:57 error: SQLITE_ERROR: no such table: issues
+2023-04-12 06:14:13 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/log.txt.lck
+2023-04-12 06:14:13 error: SQLITE_ERROR: no such table: issues
+2023-04-12 06:16:21 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/log.txt.lck
+2023-04-12 06:16:21 error: SQLITE_ERROR: no such table: issues
+2023-04-12 06:16:40 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_2/log.txt.lck
+2023-04-12 06:16:40 error: SQLITE_ERROR: no such table: issues
